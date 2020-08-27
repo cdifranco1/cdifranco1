@@ -13,7 +13,16 @@
 </a>
 
 <br />
-<img align="right" alt="GIF" width="300px" src="https://images.unsplash.com/photo-1479920252409-6e3d8e8d4866?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2850&q=80" />
+
+.laptop {
+  width: 30%;
+  box-shadow: box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+
+<div class="laptop">
+  <img align="right" alt="Laptop" src="https://images.unsplash.com/photo-1479920252409-6e3d8e8d4866?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2850&q=80" />
+</div>
+
 
 ### I'm Charlie DiFranco
 - A web developement and computer science student at Lambda School
