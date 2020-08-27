@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hello 👋
 
-<!--
-**cdifranco1/cdifranco1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/charlie-difranco/">
+  <img align="left" alt="Charlie's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-Here are some ideas to get you started:
+<a href="https://github.com/cdifranco1/">
+  <img align="left" alt="Charlie's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://leetcode.com/cdifranco/">
+  <img align="left" alt="Charlie's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
+
+<br />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
+### I'm Charlie DiFranco
+- A web developement and computer science student at Lambda School
+- Previously worked as a valuation consultant at a Big 4 accounting firm
+- I'm currently looking for opportunities to transition into a software engineering role
+- I value learning and solving challenging problems
+
