@@ -13,7 +13,7 @@
 </a>
 
 <br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" alt="GIF" src="https://unsplash.com/photos/EZSm8xRjnX0" />
 
 ### I'm Charlie DiFranco
 - A web developement and computer science student at Lambda School
