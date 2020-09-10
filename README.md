@@ -18,5 +18,6 @@
 - A web developement and computer science student at Lambda School
 - Previously worked as a valuation consultant at a Big 4 accounting firm
 - I'm currently looking for opportunities to transition into a software engineering role
-- I love learning, building, and solving challenging problems, which is what led me to software development
+- I love learning, building, and solving challenging problems
+
 
