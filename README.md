@@ -17,7 +17,11 @@
 ### I'm Charlie DiFranco
 - A web developement and computer science student at Lambda School
 - Previously worked as a valuation consultant at a Big 4 accounting firm
-- I'm currently looking for opportunities to transition into a software engineering role
+- I'm currently looking for opportunities to transition into a software development role
 - I love learning, building, and solving challenging problems
+
+
+### Some Projects I'm proud of:
+
 
 
