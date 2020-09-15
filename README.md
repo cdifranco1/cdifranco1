@@ -24,14 +24,16 @@
 ### Some projects I'm proud of:
 <a href="https://github.com/cdifranco1/weather_cli">
   <span>Weather CLI App</span>
-</a>
-<span>- A command-line app for MacOS that scrapes weather data from google search.</span>
+</a>    
+<span>A command-line app for MacOS that scrapes weather data from google search.</span>
 
 <a href="https://github.com/cdifranco1/valuation-backend">
   <span>ValU</span>
-</a>
+</a>  
 <span>A full stack application for calculating business enterprise discounted cash flow valuations and searching comparable companies.</span>
 
+<span>Conway's Game of Life</span><span> </span> <a href="https://github.com/cdifranco1/conway-game-of-life"><img align="left" alt="Charlie's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>  
+<span>Interactive implementation of Conway's Game of Life simulation.</span>
 
 
 
