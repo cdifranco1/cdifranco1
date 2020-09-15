@@ -22,10 +22,12 @@
 
 
 ### Some projects I'm proud of:
-<a href="https://github.com/cdifranco1/weather_cli">
-  <span>Weather CLI App</span>
-</a>    
-<span>A command-line app for MacOS that scrapes weather data from google search.</span>  
+<div>
+  <a href="https://github.com/cdifranco1/weather_cli">
+    <span>Weather CLI App</span>
+  </a>    
+</div>
+<p>A command-line app for MacOS that scrapes weather data from google search.</p>  
 
 <a href="https://github.com/cdifranco1/valuation-backend">
   <span>ValU</span>
