@@ -25,19 +25,16 @@
 <a href="https://github.com/cdifranco1/weather_cli">
   <span>Weather CLI App</span>
 </a>    
-<span>A command-line app for MacOS that scrapes weather data from google search.</span>
+<span>A command-line app for MacOS that scrapes weather data from google search.</span>  
 
 <a href="https://github.com/cdifranco1/valuation-backend">
   <span>ValU</span>
 </a>  
-<span>A full stack application for calculating business enterprise discounted cash flow valuations and searching comparable companies.</span>
+<span>A full stack application for calculating business enterprise discounted cash flow valuations and searching comparable companies.</span>  
 
 <a href="https://github.com/cdifranco1/conway-game-of-life">
   <span>Conway's Game of Life</span>
  </a>
-<span>Interactive implementation of Conway's Game of Life simulation.</span>
-
-
-
+<span>Interactive implementation of Conway's Game of Life simulation.</span>  
 
 
