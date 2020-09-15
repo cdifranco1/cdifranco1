@@ -23,8 +23,14 @@
 
 ### Some projects I'm proud of:
 <a href="https://github.com/cdifranco1/weather_cli">
-  <span>Weather CLI App - A command-line app for MacOS that scrapes weather data from google search.</span>
+  <span>Weather CLI App</span>
 </a>
+<span>- A command-line app for MacOS that scrapes weather data from google search.</span>
+
+<a href="https://github.com/cdifranco1/valuation-backend">
+  <span>ValU</span>
+</a>
+<span>A full stack application for calculating business enterprise discounted cash flow valuations and searching comparable companies.</span>
 
 
 
