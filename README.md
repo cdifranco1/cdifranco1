@@ -32,7 +32,9 @@
 </a>  
 <span>A full stack application for calculating business enterprise discounted cash flow valuations and searching comparable companies.</span>
 
-<span>Conway's Game of Life</span><span> </span> <a href="https://github.com/cdifranco1/conway-game-of-life"><img align="left" alt="Charlie's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>  
+<a href="https://github.com/cdifranco1/conway-game-of-life">
+  <span>Conway's Game of Life</span>
+ </a>
 <span>Interactive implementation of Conway's Game of Life simulation.</span>
 
 
