@@ -29,14 +29,18 @@
 </div>
 <p>A command-line app for MacOS that scrapes weather data from google search.</p>  
 
-<a href="https://github.com/cdifranco1/valuation-backend">
-  <span>ValU</span>
-</a>  
-<span>A full stack application for calculating business enterprise discounted cash flow valuations and searching comparable companies.</span>  
+<div>
+  <a href="https://github.com/cdifranco1/valuation-backend">
+    <span>ValU</span>
+  </a> 
+</div>
+<p>A full stack application for calculating business enterprise discounted cash flow valuations and searching comparable companies.</p>  
 
-<a href="https://github.com/cdifranco1/conway-game-of-life">
-  <span>Conway's Game of Life</span>
- </a>
-<span>Interactive implementation of Conway's Game of Life simulation.</span>  
+<div>
+  <a href="https://github.com/cdifranco1/conway-game-of-life">
+    <span>Conway's Game of Life</span>
+   </a>
+</div>
+<p>Interactive implementation of Conway's Game of Life simulation.</p>  
 
 
