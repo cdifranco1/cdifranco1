@@ -17,7 +17,7 @@
 ### I'm Charlie DiFranco
 - An alumnus of Lambda School's computer science and web development academy
 - Previously worked as a valuation consultant at a Big 4 accounting firm
-- I'm currently looking for opportunities to transition into a software development role
+- I'm currently looking for software development opportunities
 - I love learning, building, and problem-solving
 
 
