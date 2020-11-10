@@ -15,19 +15,12 @@
 <br />
 
 ### I'm Charlie DiFranco
-- An alumnus of Lambda School's computer science and web development academy
 - Previously worked as a valuation consultant at a Big 4 accounting firm
-- I'm currently looking for software development opportunities
-- I love learning, building, and problem-solving
+- Currently looking for software development opportunities
+- I enjoy learning, building, and problem-solving
 
 
-### Some recent applications I've worked on:
-<div>
-  <a href="https://github.com/cdifranco1/weather_cli">
-    <span>Weather CLI App</span>
-  </a>    
-</div>
-<p>A command-line app for MacOS that scrapes weather data from google search.</p>  
+### Some recent applications I've worked on: 
 
 <div>
   <a href="https://github.com/cdifranco1/valuation-backend">
@@ -52,3 +45,9 @@
 <p>Simple full stack to-do list built with a React frontend and Node/Express/Postgres backend.</p>
 
 
+<div>
+  <a href="https://github.com/cdifranco1/weather_cli">
+    <span>Weather CLI App</span>
+  </a>    
+</div>
+<p>A command-line app for MacOS that scrapes weather data from google search.</p> 
