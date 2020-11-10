@@ -21,7 +21,7 @@
 - I love learning, building, and problem-solving
 
 
-### Some projects I'm proud of:
+### Some recent applications I've worked on:
 <div>
   <a href="https://github.com/cdifranco1/weather_cli">
     <span>Weather CLI App</span>
