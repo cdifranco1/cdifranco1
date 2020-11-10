@@ -25,7 +25,10 @@
 <div>
   <a href="https://github.com/cdifranco1/valuation-backend">
     <span>ValU</span>
-  </a> 
+  </a>
+  <a href="https://github.com/cdifranco1/valuation-backend">
+      <img align="right" alt="Charlie's Github" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  </a>
 </div>
 <p>A full stack application for calculating business enterprise discounted cash flow valuations and searching comparable companies.</p>  
 
