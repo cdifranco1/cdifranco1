@@ -36,6 +36,13 @@
 </div>
 <p>Interactive implementation of Conway's Game of Life simulation.</p>
 
+<div>
+  <a href="https://github.com/cdifranco1/stock_data">
+    <span>Equity Data Rest API</span>
+   </a>
+</div>
+<p>Rest API for retrieving public company financial data from Financial Modeling Prep API using Java and Spring Boot.</p>
+
 
 <div>
   <a href="https://github.com/cdifranco1/todo-list-backend">
