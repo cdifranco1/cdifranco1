@@ -43,6 +43,16 @@
 <p>Interactive implementation of Conway's Game of Life simulation.</p>
 
 <div>
+  <a href="https://production.d3iery6e42ccvf.amplifyapp.com/">
+    <span>Miracle Map</span>
+   </a>
+  <a href="https://github.com/Lambda-School-Labs/miracle-messages-fe">
+      <img align="right" alt="Charlie's Github" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  </a>
+</div>
+<p>Interactive map and member portal for the Miracle Messages non-profit organization. Built over an 8-week development period with a team of 4 other developers.</p>
+
+<div>
   <span>Equity Data Rest API</span>
   <a href="https://github.com/cdifranco1/stock_data">
       <img align="right" alt="Charlie's Github" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
