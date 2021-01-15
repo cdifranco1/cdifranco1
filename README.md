@@ -15,10 +15,6 @@
 <br />
 
 ### I'm Charlie DiFranco
-- Previously worked as a valuation consultant at a Big 4 accounting firm
-- Currently looking for software development opportunities
-- I enjoy learning, building, and problem-solving
-
 
 ### Some recent applications I've worked on: 
 
