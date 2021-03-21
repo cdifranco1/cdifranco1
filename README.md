@@ -16,7 +16,17 @@
 
 ### I'm Charlie DiFranco
 
-### Some recent applications I've worked on: 
+### Some recent applications I've worked on:
+
+<div>
+  <a href="https://lighthouserecoveryllc.com/">
+    <span>Lighthouse Recovery Services</span>
+  </a>
+  <a href="https://github.com/cdifranco1/intervention_site">
+      <img align="right" alt="Charlie's Github" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+   </a>
+</div>
+<p>Marketing site for Lighthouse Recovery Services - a rehab and addiction treatment service launched by a close friend.</p>
 
 <div>
   <a href="https://valuation-swart.vercel.app/">
@@ -47,26 +57,6 @@
   </a>
 </div>
 <p>Interactive map and member portal for the Miracle Messages non-profit organization. Built over an 8-week development period with a team of 4 other developers.</p>
-
-<div>
-  <span>Equity Data Rest API</span>
-  <a href="https://github.com/cdifranco1/stock_data">
-      <img align="right" alt="Charlie's Github" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-   </a>
-</div>
-<p>Rest API for retrieving public company financial data from Financial Modeling Prep API using Java and Spring Boot.</p>
-
-
-<div>
-  <a href="https://todo-list-frontend.vercel.app/">
-    <span>Another To-Do List</span>
-   </a>
-    <a href="https://github.com/cdifranco1/todo-list-backend">
-      <img align="right" alt="Charlie's Github" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-   </a>
-</div>
-<p>Simple full stack to-do list built with a React frontend and Node/Express/Postgres backend.</p>
-
 
 <div>
   <span>Weather CLI App</span>
