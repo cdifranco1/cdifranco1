@@ -22,7 +22,7 @@
   <a href="https://lighthouserecoveryllc.com/">
     <span>Lighthouse Recovery Services</span>
   </a>
-  <a href="https://github.com/cdifranco1/intervention_site">
+  <a href="https://github.com/cdifranco1/intervention-site">
       <img align="right" alt="Charlie's Github" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
    </a>
 </div>
