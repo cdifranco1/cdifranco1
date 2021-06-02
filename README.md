@@ -14,8 +14,6 @@
 
 <br />
 
-### I'm Charlie DiFranco
-
 ### Some recent applications I've worked on:
 
 <div>
